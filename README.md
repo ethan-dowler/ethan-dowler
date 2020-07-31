@@ -11,3 +11,5 @@ If you need help on a Ruby project that brings hope to others, consider tagging 
 On a personal note, I love screamo music, board games, and video games, so if you have any recommendations, send them my way.
 
 Best of luck to you on your programming journey!
+
+P.S. — If you're interested in reading about faith, marriage, or parenting, check out [my humble blog](https://ethan-dowler.github.io/blog/). Thanks!
