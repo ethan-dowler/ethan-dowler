@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bringing Hope to Students Across America
 
-<!--
-**ethan-dowler/ethan-dowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As part of the [Ramsey Education](https://www.ramseyeducation.com/) development team (a department of [Ramsey Solutions](https://ramseysolutions.com/)), I work with a small team of amazing people to develop a digital platform that delivers our life-changing personal finance and entrepreneurship curriculum to millions of students across the US.
 
-Here are some ideas to get you started:
+We love [Ruby on Rails](https://rubyonrails.org/), [React JS](https://reactjs.org/), and [Magnolia CMS](https://www.magnolia-cms.com/) (my personal favorite of the three is [Ruby](https://www.ruby-lang.org/en/)! ❤️).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We do work that matters because we do our work ["as unto the Lord"](https://www.biblegateway.com/passage/?search=Colossians%203%3A23-24&version=ESV).
+
+If you need help on a Ruby project that brings hope to others, consider tagging me on Github.
+
+On a personal note, I love screamo music, board games, and video games, so if you have any recommendations, send them my way.
+
+Best of luck to you on your programming journey!
