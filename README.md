@@ -1,6 +1,6 @@
 # Bringing Hope to Students Across America
 
-As part of the [Ramsey Education](https://www.ramseyeducation.com/) development team (a department of [Ramsey Solutions](https://ramseysolutions.com/)), I work with a small team of amazing people to develop a digital platform that delivers our life-changing personal finance and entrepreneurship curriculum to millions of students across the US.
+As part of the [Ramsey Education](https://www.ramseyeducation.com/) development team (a department of [Ramsey Solutions](https://ramseysolutions.com/)), I work with [a small team of amazing people](https://www.ramseyinhouse.com/) to develop a digital platform that delivers our life-changing personal finance and entrepreneurship curriculum to millions of students across the US.
 
 We love [Ruby on Rails](https://rubyonrails.org/), [React JS](https://reactjs.org/), and [Magnolia CMS](https://www.magnolia-cms.com/) (my personal favorite of the three is [Ruby](https://www.ruby-lang.org/en/)! ❤️).
 
