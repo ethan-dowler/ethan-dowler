@@ -12,4 +12,4 @@ On a personal note, I love screamo music, board games, and video games, so if yo
 
 Best of luck to you on your programming journey!
 
-P.S. — If you're interested in reading about faith, marriage, or parenting, check out [my humble blog](https://ethan-dowler.github.io/blog/). Thanks!
+<!-- P.S. — If you're interested in reading about faith, marriage, or parenting, check out [my humble blog](https://ethan-dowler.github.io/blog/). Thanks! -->
