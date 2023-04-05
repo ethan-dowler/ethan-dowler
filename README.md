@@ -1,4 +1,4 @@
-# Bringing Hope to Immigrants, Refugees, and Asylees coming to America
+# Bringing Hope to Immigrants, Refugees, and Asylees
 
 ## Professional
 
