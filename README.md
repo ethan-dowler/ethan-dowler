@@ -1,4 +1,4 @@
-# Bringing Hope to Immigrants, Refugees, and Asylees
+# Bringing the US Immigration Process into the Modern Era
 
 ## Professional
 
@@ -10,7 +10,7 @@ I love [Ruby on Rails](https://rubyonrails.org/), and [React](https://reactjs.or
 
 I do work that matters because I do my work ["as unto the Lord"](https://www.biblegateway.com/passage/?search=Colossians%203%3A23-24&version=ESV).
 
-I love screamo music, board games, and video games, so if you have any recommendations, send them my way.
+I love metalcore music, film, chess, and all manor of other games. If you have any recommendations, send them my way.
 
 ## Reach Out
 
