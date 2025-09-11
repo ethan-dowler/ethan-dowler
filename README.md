@@ -2,7 +2,7 @@
 
 ## Professional
 
-As a member of IntelliBridge, I serve as a contractor to the United States Citizenship and Immigration Services.
+As a member of [Agile Defense](https://agiledefense.com), I serve as a contractor to the United States Citizenship and Immigration Services.
 
 ## Personal
 
